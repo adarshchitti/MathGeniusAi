@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  }
+} 

@@ -133,11 +133,6 @@ MathGeniusAi/
 
 ---
 
-## License
-
-MIT
-
-
 ## Authors
 
 - [adarshchitti](https://github.com/adarshchitti)

@@ -13,7 +13,6 @@ MathGeniusAi is an AI-powered web application that analyzes math problems from t
     - Estimates the topic and grade level.
     - Provides a "blueprint" for generating similar problems.
 - **Generate Similar Problems:** Users can create new, similar math questions based on the AI-generated blueprint.
-- **Feedback:** Rate templates and leave feedback to improve future templates.
 - **Modern UI:** Built with React, Wouter (routing), TanStack Query, Tailwind CSS, and shadcn/ui components.
 
 ---

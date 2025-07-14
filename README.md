@@ -20,13 +20,7 @@ MathGeniusAi is an AI-powered web application that analyzes math problems from t
 
 ## Video Demo
 
-[*A sample demo video should show:*
-- Typing or uploading a math problem.
-- Viewing the analyzed template, grade, topic.
-- Generating a similar question.
-- (Optional) Leaving feedback.
-
-*(Replace the video link above after uploading your demo!)*](https://youtu.be/N8-I4XgODnQ)
+https://github.com/user-attachments/assets/e8594773-cfe7-458d-8b25-47742b11917f
 
 ---
 
